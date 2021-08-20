@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiziWizi
+- 👋 Hi, I’m @DiziWizi!
 - 🌱 I’m currently studying networking and support at TasTAFE
 - 📫 You can reach me via https://diziwizi.carrd.co/
 
