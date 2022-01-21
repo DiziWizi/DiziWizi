@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiziWizi!
-- 🌱 I’m currently studying networking and support at TasTAFE
+- 🌱 I’m currently studying at UTAS!
 - 📫 You can reach me via https://diziwizi.carrd.co/
 
 <!---
