@@ -2,6 +2,7 @@
 - 🌱 I’m currently studying at UTAS!
 - 📫 You can reach me via https://diziwizi.carrd.co/
 
+### Weekly Waka Stats!
 <!--START_SECTION:waka-->
 
 ```text
