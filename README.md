@@ -3,4 +3,9 @@
 - 📫 You can reach me via https://diziwizi.carrd.co/
 
 <!--START_SECTION:waka-->
+
+```text
+Other   68 hrs 56 mins  ████████████████████████▓   99.14 %
+```
+
 <!--END_SECTION:waka-->
