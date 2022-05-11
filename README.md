@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
